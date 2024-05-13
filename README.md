@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **daphneyt04/daphneyt04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,13 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-hi 👋 i'm daphney talekar
+hi there 👋 
 ================================
 
 developer / student / lifelong learner
 --------------------------------------
 
-i'm a comp sci & applied mathematics major @ vanderbilt university. interested in using technology for social good & defining my worldview with mathematics! currently learning machine learning, full-stack development, and new technologies.
+i'm a comp sci & applied mathematics major @ vanderbilt university. 
+interested in using technology for social good & defining my worldview with mathematics! 
+currently learning machine learning, full-stack development, and new technologies. 🌱
 
 * 🌍  i'm based in atlanta & nashville. willing to go anywhere to learn anything!
 * ✉️  you can contact me at [daphney.p.talekar@vanderbilt.edu](mailto:daphney.p.talekar@vanderbilt.edu)
