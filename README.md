@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 hi there 👋 
 ================================
 
-developer / student / lifelong learner
+developer / student / aspiring engineer / lifelong learner
 --------------------------------------
 
 i'm a comp sci & applied mathematics major @ vanderbilt university. 
