@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 hi there 👋 
 ================================
 
-developer / student / aspiring engineer / lifelong learner
+developer / student / aspiring engineering physician / lifelong learner
 --------------------------------------
 
-i'm a comp sci & applied mathematics major @ vanderbilt university. 
+i'm a comp sci & neuro major @ vanderbilt university. 
 interested in using technology for social good & defining my worldview with mathematics! 
 currently learning machine learning, full-stack development, and new technologies. 🌱
 
 * 🌍  i'm based in atlanta & nashville. willing to go anywhere to learn anything!
 * ✉️  you can contact me at [daphney.p.talekar@vanderbilt.edu](mailto:daphney.p.talekar@vanderbilt.edu)
 * 🔭 school year: undergrad research intern @ robotics and autonomous systems lab, google CSRMP
-* 😄 summer 2024: ai/ml fellow @ cornell tech, data engineering intern @ clearloop
+* 😄 summer 2024: ai/ml fellow @ cornell tech, data engineering intern @ clearloop, research intern @ ECU BSOM
 * ⚡  i love philosophy, poetry, and music (peep the spotify: [daphneytalekar](https://open.spotify.com/user/daphney.talekar04?si=bea3a849d2354cf9) if you like techno, rap, or any genre of rock) i've been dabbling more into computational mathematics and computer vision, so big things are coming... _YELP_
