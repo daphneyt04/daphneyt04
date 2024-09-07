@@ -25,6 +25,5 @@ currently learning machine learning, full-stack development, and new technologie
 
 * 🌍  i'm based in atlanta & nashville. willing to go anywhere to learn anything!
 * ✉️  you can contact me at [daphney.p.talekar@vanderbilt.edu](mailto:daphney.p.talekar@vanderbilt.edu)
-* 🔭 school year: undergrad research intern @ robotics and autonomous systems lab, google CSRMP
-* 😄 summer 2024: ai/ml fellow @ cornell tech, data engineering intern @ clearloop, research intern @ ECU BSOM
+* 🔭 school year: undergrad research intern @ robotics and autonomous systems lab, AI intern @ relativity, research intern @ ECU BSOM
 * ⚡  i love philosophy, poetry, and music (peep the spotify: [daphneytalekar](https://open.spotify.com/user/daphney.talekar04?si=bea3a849d2354cf9) if you like techno, rap, or any genre of rock) i've been dabbling more into computational mathematics and computer vision, so big things are coming... _YELP_
