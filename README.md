@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 hi there 👋 
 ================================
 
-developer / student / aspiring engineering physician / lifelong learner
+developer / student / aspiring scientist / lifelong learner
 --------------------------------------
 
 i'm a comp sci & neuro major @ vanderbilt university. 
@@ -26,4 +26,4 @@ currently learning machine learning, full-stack development, and new technologie
 * 🌍  i'm based in atlanta & nashville. willing to go anywhere to learn anything!
 * ✉️  you can contact me at [daphney.p.talekar@vanderbilt.edu](mailto:daphney.p.talekar@vanderbilt.edu)
 * 🔭 school year: undergrad research intern @ robotics and autonomous systems lab, AI intern @ relativity, research intern @ ECU BSOM
-* ⚡  i love philosophy, poetry, and music (peep the spotify: [daphneytalekar](https://open.spotify.com/user/daphney.talekar04?si=bea3a849d2354cf9) if you like techno, rap, or any genre of rock) i've been dabbling more into computational mathematics and computer vision, so big things are coming... _YELP_
+* ⚡  i love philosophy, poetry, and music (peep the spotify: [daphneytalekar](https://open.spotify.com/user/daphney.talekar04?si=bea3a849d2354cf9) i've been dabbling more into computational mathematics and computer vision, so big things are coming... _YELP_
