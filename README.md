@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 hi there 👋 
 ================================
 
-developer / student / aspiring physician-innovaor / lifelong learner
+developer / student / aspiring physician-innovator / lifelong learner
 --------------------------------------
 
 i'm a comp sci & chem major @ vanderbilt university. 
